@@ -13,9 +13,9 @@ Atualmente, ainda estou explorando as possibilidades tanto no front-end, quanto 
 
  <!-- Contacts -->
  <div align="center">
-Meus contatos:<p><p><p>
+Meus contatos:   
 <a href="https://www.linkedin.com/in/renan-veronez-drechsler-54a4801a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<p><p><p>
+   
 <a href="https://app.rocketseat.com.br/me/renan-veronez-drechsler-05266" target="_blank"><img src="https://img.shields.io/badge/-Rocketseat-000?style=for-the-badge&logo=rocketseat&logoColor=black"></a>
 
 
@@ -24,21 +24,21 @@ Meus contatos:<p><p><p>
 
 **Sobre as linguagens/tecnologias que estou utilizando:**
 - **Front-end**: 
-![HTML5]<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-![CSS]<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-![JavaScript]<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-![ReactJS]<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-![TypeScript]<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) 
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
+![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - **Back-end**: 
-![NodeJS]<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
+![NodeJS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js) 
+![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn&logoColor=007ACC) ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)  
 - **Versionamento**: 
-![Git]<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 - **Banco de Dados**: 
-![PostgreSQL]<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) 
 ![MongoDb] <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> 
 ![Redis] <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 - **Infraestrutura**: 
-![Docker]<img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux) 
 
 <br><br>

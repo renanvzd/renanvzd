@@ -7,7 +7,7 @@ Para atingir este objetivo, concluí em 06/2020 um Tecnólogo em Sistemas para I
 <br><br>
 Como grande diferencial, acredito que os anos de experiência na gestão de projetos de um banco me proporcionaram soft skills bem construídas, que junto das competências que estou em desenvolvimento agora podem me possibilitar uma noção ampla de cada contexto.
 <br><br>
-Atualmente, estou explorando as possibilidades tanto no front-end, quanto no back-end sem ter uma definição concreta do caminho a seguir.
+Atualmente, estou explorando as possibilidades tanto no front-end, quanto no back-end com predileção pelo front-end!
 
 <br><br>
 

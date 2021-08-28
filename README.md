@@ -1,13 +1,13 @@
 <!-- Description -->
 ## <div align="center">Olá, meu nome é Renan Veronez Drechsler 😄👋</div>
 <div align="justify">
-Sou formado em Administração de Empresas, trabalho como Analista de Projetos no Banco do Estado do Rio Grande do Sul (Banrisul) desde 11/2013 e, paralelamente, iniciei uma jornada para adentrar no mundo do desenvolvimento web.
+Atualmente trabalho como front-end dev na empresa Enext, a Wunderman Thompson Company.
+Sou formado em Administração de Empresas e fui Gestor de Projetos no Banco do Estado do Rio Grande do Sul (Banrisul) desde 11/2013.
 <br><br>
-Para atingir este objetivo, concluí em 06/2020 um Tecnólogo em Sistemas para Internet e procuro constantemente aprofundar meus conhecimentos como desenvolvedor por meio de participações em eventos online direcionados para criação de projetos para, posteriormente, reaplicar o conhecimento em projetos próprios.
+Para me qualificar na área de desenvolvimento web, concluí em 06/2020 um Tecnólogo em Sistemas para Internet. Também procuro constantemente aprofundar meus conhecimentos como desenvolvedor por meio de participações em eventos online direcionados à criação de projetos para, posteriormente, reaplicar o conhecimento em projetos próprios.
 <br><br>
 Como grande diferencial, acredito que os anos de experiência na gestão de projetos de um banco me proporcionaram soft skills bem construídas, que junto das competências que estou em desenvolvimento agora podem me possibilitar uma noção ampla de cada contexto.
 <br><br>
-Atualmente, estou explorando as possibilidades tanto no front-end, quanto no back-end com predileção pelo front-end!
 
 <br><br>
 

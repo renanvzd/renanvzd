@@ -5,12 +5,9 @@
 <p>I had been working as a Product Owner in a Brazilian Bank for the last 8 years when I started a transition career 4 years ago to become a web developer.
 Since my graduation in Internet Systems Techonologist in 2020, I have been studying by myself to improve my hard skills, especially these languages/tecnologies described at the end of this text.</p>
 
-
-<br>
 <p>I didn't have worked as a web developer in a company yet, because I left my last job a few months ago. 
 However, I seek to develop projects with all the knowledge that I have been learning, which can be verified on my portfolio: https://myportfolio-renanvzd.vercel.app/</p>
 
-<br>
 <p>It's worth highlighting that my experience working in the product management area helped me to develop soft skills that I believe can be useful to add value to my future co-workers' team!</p>
 <br>
 

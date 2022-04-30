@@ -1,9 +1,9 @@
 <!-- Description -->
 ## <div align="center">Hi, my name is Renan! 😄👋</div>
 <div align="justify">
-I'm a web developer, graduated in Internet Systems Technologist. 
+I'm a brazilian web developer living in Cork - Ireland. 
 I had been working as a Product Owner in a Brazilian Bank for the last 8 years when I started a transition career 4 years ago to become a web developer.
-Since my graduation, I have been studying by myself to improve my hard skills, especially these languages/tecnologies described at the end of this text.
+Since my graduation in Internet Systems Techonologist in 2020, I have been studying by myself to improve my hard skills, especially these languages/tecnologies described at the end of this text.
 
 <br><br>
 I didn't have worked as a web developer in any company yet, because I left my last job a few months ago. 

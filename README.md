@@ -2,7 +2,7 @@
 ## <div align="center">Hi, my name is Renan! 😄👋</div>
 <div align="justify">
 <p>I'm a brazilian web developer living in Cork - Ireland.</p>
-<p>I had been working as a Product Owner in a Brazilian Bank for 8 years when I started a transition career 4 years ago to become a web developer. Since I finished my graduation in Internet Systems Technologist in 2020, I have been creating projects, working as a freelance and studying to improve my hard skills, especially Typescript, ReactJS, JavaScript, HTML, CSS, SASS, Node and Git.</p>
+<p>I had been working as a Product Owner in a Brazilian Bank since 2010 when I started a transition career in 2018 to become a web developer. Since I finished my graduation in Internet Systems Technologist in 2020, I have been creating projects, working as a freelance and studying to improve my hard skills, especially Typescript, ReactJS, JavaScript, HTML, CSS, SASS, Node and Git.</p>
 
 <p>I left my last job to go to Ireland because I'm looking for a new challenge where I can reach the next level in my career. I seek to develop projects with all the knowledge that I have been learning, which can be verified on my portfolio: https://myportfolio-renanvzd.vercel.app/</p>
  

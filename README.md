@@ -1,7 +1,7 @@
 <!-- Description -->
 ## <div align="center">Hi, welcome to my Github!</div>
 <div align="justify">
-<p>I'm a brazilian Fronten Developer who lives in Cork, Ireland.</p>
+<p>I'm a brazilian Frontend Developer who lives in Cork, Ireland.</p>
 <p>I worked as a Business Analyst for a Brazilian Bank over eight years.</p>
 <p>In 2018 I started my Associate Degree in Programming due to my decision to become a web developer. Since there, I finished this degree and have been building projects, doing freelance jobs, and studying to improve my hard skills, especially Typescript, ReactJS, JavaScript, HTML, CSS, SASS, Node, and Git.</p>
 

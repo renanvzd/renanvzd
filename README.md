@@ -5,7 +5,7 @@
 <p>I worked as a Business Analyst for a Brazilian Bank over eight years.</p>
 <p>I started my Associate Degree in Programming in 2018 due to my decision to become a web developer. From that moment on, I finished this degree and have been building projects, doing freelance jobs, and studying to improve my hard skills, especially Typescript, ReactJS, JavaScript, HTML, CSS, SASS, Node, and Git.</p>
 
-<p>I left my job in 2022 to go to Ireland because I am looking for a new challenge where I can reach the next level in my career.</p>
+<p>I left my job in Brazil as a Frontend because I want a career that can provide progression globally and new challenges where I can reach the next level in my career.</p>
  
  <p> I’m always interested in hearing suggestions, so feel free to contact me if you’d like to talk.</p>
  

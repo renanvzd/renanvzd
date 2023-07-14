@@ -1,13 +1,16 @@
 <!-- Description -->
 ## <div align="center">Hi, welcome to my Github!</div>
 <div align="justify">
-<p>I'm a brazilian Frontend Developer who lives in Cork, Ireland.</p>
-<p>I worked as a Business Analyst for a Brazilian Bank over eight years.</p>
-<p>I started my Associate Degree in Programming in 2018 due to my decision to become a web developer. From that moment on, I finished this degree and have been building projects, doing freelance jobs, and studying to improve my hard skills, especially Typescript, ReactJS, JavaScript, HTML, CSS, SASS, Node, and Git.</p>
+<p>I'm a Brazilian Frontend Developer currently residing in Cork, Ireland.</p>
+<p>👨‍💼 With over eight years of experience as a Business Analyst for a prominent Brazilian Bank, I bring a unique perspective to web development.</p>
 
-<p>I left my job in Brazil as a Frontend because I want a career that can provide progression globally and new challenges where I can reach the next level in my career.</p>
- 
- <p> I’m always interested in hearing suggestions, so feel free to contact me if you’d like to talk.</p>
+<p>🎓 In 2018, I made the decision to transition into the world of web development and embarked on my Associate Degree in Programming. Since then, I've completed the degree and have been actively building projects, taking on freelance assignments, and continuously enhancing my hard skills. My focus has been on mastering technologies such as TypeScript, ReactJS, JavaScript, HTML, CSS, SASS, Node, and Git.</p>
+
+<p>🌍 Seeking a career that offers global progression and fresh challenges, I made the leap and left my Frontend position in Brazil. I am now eager to take my skills to the next level and embark on new opportunities.</p>
+
+<p>💼 I'm open to collaborations and always keen on receiving suggestions. If you'd like to connect and chat, feel free to reach out!</p>
+
+<p>Looking forward to connecting and creating exciting web solutions together!</p>
  
 <br>
 

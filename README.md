@@ -1,7 +1,7 @@
 <!-- Description -->
 ## <div align="center">Hi, welcome to my Github!</div>
 <div align="justify">
-<p>I'm a Brazilian Frontend Developer currently residing in Cork, Ireland.</p>
+<p>I'm a Brazilian software engineer living in Malta.</p>
 <p>👨‍💼 With over eight years of experience as a Business Analyst for a prominent Brazilian Bank, I bring a unique perspective to web development.</p>
 
 <p>🎓 In 2018, I made the decision to transition into the world of web development and embarked on my Associate Degree in Programming. Since then, I've completed the degree and have been actively building projects, taking on freelance assignments, and continuously enhancing my hard skills. My focus has been on mastering technologies such as TypeScript, ReactJS, JavaScript, HTML, CSS, SASS, Node, and Git.</p>
